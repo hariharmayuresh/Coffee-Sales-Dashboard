@@ -13,6 +13,17 @@
 
 ---
 
+
+<h3 align="center">🎥 Excel Dashboard Demo</h3>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=OrW7PCgkqg4" target="_blank">
+    <img src="Dashboard%20Visualisation/dashboard_1.png" width="70%" alt="Excel Dashboard Video">
+  </a>
+</p>
+
+---
+
 ## 📊 Project Summary
 
 This project is inspired by [Mochan's YouTube tutorial](https://www.youtube.com/watch?v=m13o5aqeCbM) on building a comprehensive and interactive Excel dashboard for coffee sales. The dashboard is built using real-world-style data, transformed using advanced Excel functions and presented with visually intuitive pivot charts and slicers.
@@ -44,10 +55,10 @@ It covers the full analytical workflow — from importing and cleaning data to v
 
 ## 📁 Files Included
 
-- `coffee_sales_dashboard.xlsx` – Fully interactive Excel dashboard
+- `Coffee Sales Dashboard.xlsx` – Fully interactive Excel dashboard
 - `orders.csv`, `products.csv`, `customers.csv` – Raw data sources
 - `README.md` – Project documentation
-- `images/coffee_dashboard_thumbnail.png` – Custom thumbnail (optional)
+- `dashboard_images.png` – Pooject demo
 
 ---
 
@@ -68,22 +79,6 @@ It covers the full analytical workflow — from importing and cleaning data to v
 - 🧾 **Business Reporting for Inventory and Revenue Trends**
 - 🎯 **Portfolio Project to Demonstrate Excel Proficiency**
 - 🧑‍💼 **Management Decision Support through KPIs**
-
----
-
-## 🎥 Project Demo
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=m13o5aqeCbM" target="_blank">
-    <img src="images/coffee_dashboard_thumbnail.png" width="70%" alt="Click to Watch Coffee Dashboard Demo">
-  </a>
-</p>
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
 ---
 
